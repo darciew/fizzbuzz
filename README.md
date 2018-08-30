@@ -42,4 +42,4 @@ Example:
 20 --> buzz
 ```
 
-Throughout the challenege we swiched roles between driver/navigator, using **TDD** and the **RED - GREEN - REFACTOR** process to increase code quality and program design.
+Throughout the challenge we switched roles between driver/navigator, using **TDD** and the **RED - GREEN - REFACTOR** process to increase code quality and program design.
